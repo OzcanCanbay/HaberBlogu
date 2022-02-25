@@ -1,0 +1,38 @@
+h1{
+    color: #222;
+    font-size: 36px;
+    line-height: 42px;
+    margin-bottom: 10px;
+    font-family: "Adelle Sans Bold",sans-serif;
+}
+h3{
+    color: blueviolet;
+}
+img{
+    width: 100%;
+}
+article{
+    max-width: 720px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+figure{
+    margin-left: 0;
+    margin-right: 0;
+    text-align: center;
+}
+a{
+    color: rgb(233, 135, 6);
+}
+.p{
+    font-size: 18px;
+    line-height: 30px;
+    font-family: "PT Serif",serif;
+}
+.c{
+    color: #444;
+    font-size: 18px;
+    line-height: 27px;
+    font-family: "Adelle Sans SemiBold",sans-serif;
+}
